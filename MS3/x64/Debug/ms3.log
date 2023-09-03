@@ -1,0 +1,5 @@
+﻿  Publication.cpp
+  ms3_tester.cpp
+  Generating Code...
+C:\Users\thiag\OneDrive\Escritorio\Thiago\College\2ndSemester\OOP\OOP244-works\Project\MS3\Publication.cpp(45): warning C4715: 'sdds::Publication::operator=': not all control paths return a value
+  ms3.vcxproj -> C:\Users\thiag\OneDrive\Escritorio\Thiago\College\2ndSemester\OOP\OOP244-works\Project\MS3\x64\Debug\ms3.exe

@@ -1,0 +1,9 @@
+﻿  cstring.cpp
+  Menu.cpp
+  menuTester.cpp
+  Utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Milestone.vcxproj -> C:\Users\thiag\OneDrive\Escritorio\Thiago\College\2ndSemester\OOP\Milestone\x64\Release\Milestone.exe
